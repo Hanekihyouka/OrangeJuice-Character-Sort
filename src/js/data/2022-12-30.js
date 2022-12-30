@@ -925,5 +925,24 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "oj" ]
     }
+  },
+    {
+    name: "Natsumi (Sweet Blogger)",
+    img: "sweetblogger_00_00.png",
+    opts: {
+      series: [ "oj" ]
+    }
+    {
+    name: "Sweet Creator",
+    img: "sweetcreator_00_00.png",
+    opts: {
+      series: [ "oj" ]
+    }
+    {
+    name: "Saki (Sweet Maker)",
+    img: "sweetmaker_00_00.png",
+    opts: {
+      series: [ "oj" ]
+    }
   }
 ]
