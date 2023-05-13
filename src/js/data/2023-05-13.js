@@ -1,4 +1,4 @@
-dataSetVersion = "2022-11-22"; // Change this when creating a new data set version. YYYY-MM-DD format.
+dataSetVersion = "2023-05-13"; // Change this when creating a new data set version. YYYY-MM-DD format.
 dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
@@ -926,23 +926,29 @@ dataSet[dataSetVersion].characterData = [
       series: [ "oj" ]
     }
   },
-    {
-    name: "Natsumi (Sweet Blogger)",
-    img: "sweetblogger_00_00.png",
-    opts: {
-      series: [ "oj" ]
-    }
-    {
-    name: "Sweet Creator",
-    img: "sweetcreator_00_00.png",
-    opts: {
-      series: [ "oj" ]
-    }
-    {
-    name: "Saki (Sweet Maker)",
-    img: "sweetmaker_00_00.png",
-    opts: {
-      series: [ "oj" ]
-    }
+  {
+  name: "Natsumi (Sweet Blogger)",
+  img: "sweetblogger_00_00.png",
+  opts: {
+    series: [ "oj" ]
+  },
+  {
+  name: "Sweet Creator",
+  img: "sweetcreator_00_00.png",
+  opts: {
+    series: [ "oj" ]
+  },
+  {
+  name: "Saki (Sweet Maker)",
+  img: "sweetmaker_00_00.png",
+  opts: {
+    series: [ "oj" ]
+  },
+  {
+  name: "Mio (Festive)",
+  img: "miof_00_00.png",
+  opts: {
+    series: [ "oj" ]
+  }
   }
 ]
