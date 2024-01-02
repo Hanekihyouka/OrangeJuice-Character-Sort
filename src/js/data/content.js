@@ -1,4 +1,4 @@
-dataSetVersion = "2023-05-13"; // Change this when creating a new data set version. YYYY-MM-DD format.
+dataSetVersion = "2024-01-01"; // Change this when creating a new data set version. YYYY-MM-DD format.
 dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
@@ -949,6 +949,30 @@ dataSet[dataSetVersion].characterData = [
   img: "miof_00_00.png",
   opts: {
     series: [ "oj" ]
-  }
+  },
+  {
+  name: "Krilalaris (Pajamas)",
+  img: "krilap_00_00.png",
+  opts: {
+    series: [ "oj" ]
+  },
+  {
+  name: "Mimyuu (Jailbird)",
+  img: "mimyuuj_00_00.png",
+  opts: {
+    series: [ "oj" ]
+  },
+  {
+  name: "Mother Poppo",
+  img: "poppomama_00_00.png",
+  opts: {
+    series: [ "oj" ]
+  },
+  {
+  name: "Dark Lulu",
+  img: "darklulu_00_00.png",
+  opts: {
+    series: [ "oj" ]
+  },
   }
 ]
